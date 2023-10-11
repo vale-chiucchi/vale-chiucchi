@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vale-chiucchi
+- 👀 I’m interested in art
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 How to reach me 
