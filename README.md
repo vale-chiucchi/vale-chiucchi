@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vale! | she/her | 17 y.o
+- 👋 Hi, I’m vale!
 - 👀 I’m interested in art, comics and anime
 - 🌱 I’m currently learning c# in school
 - 💞️ I’m looking to collaborate on nothing for now
